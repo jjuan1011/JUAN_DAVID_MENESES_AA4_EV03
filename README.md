@@ -35,7 +35,7 @@ git remote add origin https://github.com/USUARIO/REPOSITORIO.git
 git branch -M main
 git push -u origin main
 ```
-El enlace del repositorio debe ser completado en `ENLACE_REPOSITORIO.txt`.
+El enlace del repositorio debe ser completado en `https://github.com/jjuan1011/JUAN_DAVID_MENESES_AA4_EV03?utm_source=chatgpt.com`.
 
 ## Alcance
 La evidencia corresponde al front-end. Los datos de tareas son de demostración y se guardan en el estado de la aplicación; no existe aún persistencia en base de datos ni autenticación.
